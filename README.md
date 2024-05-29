@@ -1,0 +1,1 @@
+This project provides app developers with valuable insights into user trends on Google Play Store using Python (pandas, matplotlib and seaborn packages) with descriptive analysis. Hence, developers can make informed decisions for app genre development and drive the success of their businesses. The sample dataset with around 10,000 entries is downloaded from Kaggle.
